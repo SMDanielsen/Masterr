@@ -1,0 +1,15 @@
+---
+title: "new paper"
+output:
+  html_document:
+    df_print: paged
+bibliography: new-paper.bib
+---
+
+## Introduction
+## Review of literature
+## Description of data
+## Analysis
+## Results
+## Conclusion
+## References
